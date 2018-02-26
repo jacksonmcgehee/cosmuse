@@ -79,7 +79,7 @@ ah_bam.posts.create!(
     become as you were
     when you arrived here on earth,
     virgins, maidens.',
-    image: 'images-assets.nasa.gov/image/PIA14443/PIA14443~orig.jpg'
+    image: 'https://images-assets.nasa.gov/image/PIA14443/PIA14443~orig.jpg'
 )
 
 rudaki.posts.create!(
@@ -88,7 +88,7 @@ rudaki.posts.create!(
     It had raised its song to the clouds
     I saw a colorful chador on it
     So many colors on its chador',
-    image: 'images-assets.nasa.gov/image/PIA13447/PIA13447~orig.jpg'
+    image: 'https://images-assets.nasa.gov/image/PIA13447/PIA13447~orig.jpg'
 )
 
 choe_chiwon.posts.create!(
@@ -101,7 +101,7 @@ choe_chiwon.posts.create!(
     My former home, dreaming of return, springtime beneath the sun.
     Crossing the river I meet with fortune the broad waves.
     I wash ten years of dust from my humble cap strings.",
-    image: 'images-assets.nasa.gov/image/GSFC_20171208_Archive_e001662/GSFC_20171208_Archive_e001662~orig.jpg'
+    image: 'https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001662/GSFC_20171208_Archive_e001662~orig.jpg'
 )
 
 christopher_okigbo.posts.create!(
@@ -113,5 +113,5 @@ christopher_okigbo.posts.create!(
     and the waves escort her, 
     my lioness, 
     crowned with moonlight. ',
-    image: 'images-assets.nasa.gov/image/A Galactic Spectacle_4862916839_o/A Galactic Spectacle_4862916839_o~orig.jpg'
+    image: 'https://images-assets.nasa.gov/image/A Galactic Spectacle_4862916839_o/A Galactic Spectacle_4862916839_o~orig.jpg'
 )
